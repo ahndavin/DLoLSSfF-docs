@@ -3,7 +3,9 @@
 
 매일 나와 함께 게임하는 친구들(일부는 실존 여부가 불확실하지만, 일단 존재한다고 가정)을 위한 디스코드용 LoL 서포트 시스템 제작 프로젝트
 
-<span style="float:right;">Developed by <span style="color:green">**Si vales valeo#EUW**</span></span>
+<p align="right">
+  <a>Go to </a><a href="https://github.com/ahndavin/DLoLSSfF">Core Repository</a><a>, developed by <strong>Si vales valeo#EUW</strong></a>
+</p>
 
 ## 소개
 - 이 프로젝트는 LoL 클라이언트 이벤트와 외부 API를 연결한다.
@@ -31,7 +33,7 @@
 > 버전 정책: `x.y.z` (`x`: 대규모 기능 추가, `y`: 클라이언트/연동 계층 변경, `z`: 서버/백엔드 변경)
 
 ## 아키텍처
-<img src="./Docs_Dev/Architecture_Diagram.png" width="80%" height="80%">
+<img src="./img/Architecture_Diagram.png" width="80%" height="80%">
 
 ### 시스템 구성
 - **LCU Agent**: League Client Update API(LCU API) 기반 로컬 에이전트.
