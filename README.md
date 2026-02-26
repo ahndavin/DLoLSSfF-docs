@@ -4,7 +4,7 @@
 매일 나와 함께 게임하는 친구들(일부는 실존 여부가 불확실하지만, 일단 존재한다고 가정)을 위한 디스코드용 LoL 서포트 시스템 제작 프로젝트
 
 <p align="right">
-  <a>Go to </a><a href="https://github.com/ahndavin/DLoLSSfF">Core Repository</a><a>, developed by <strong>Si vales valeo#EUW</strong></a>
+  <a>Developed by <strong>Si vales valeo#EUW</strong></a><a> | Go to </a><a href="https://github.com/ahndavin/DLoLSSfF">Core Repository</a>
 </p>
 
 ---
@@ -20,8 +20,8 @@ DLoLSSfF는 여러분과 함께 게임할 때 조금 더 재미있게 플레이�
 ## ✨ 어떤 걸 해주나요?
 현재 버전에서는 아래 기능을 지원합니다.
 
-- ✅ **매치 자동 수락** (LCU Agent 프로그램을 실행한 경우)
-  게임을 찾으면 자동으로 수락해줘요.
+- ✅ **매치 자동 수락** (DLoLSSfF Agent 필요)  
+  게임을 찾으면 자동으로 수락해줘요.  
 
 - 📊 **챔피언 조합 분석**  
   챔피언 선택이 끝나면 팀 조합을 간단하게 분석해서  
@@ -41,7 +41,7 @@ DLoLSSfF는 여러분과 함께 게임할 때 조금 더 재미있게 플레이�
 
 ---
 
-## 🧩 어떻게 동작하나요? (LCU Agent 프로그램 필요)
+## 🧩 어떻게 동작하나요? (DLoLSSfF Agent 필요)
 1. 내 컴퓨터에서 게임 상태를 확인합니다.
 2. 서버가 필요한 정보만 모아서 분석합니다.
 3. 결과를 디스코드 채널로 보내줍니다.
@@ -56,26 +56,27 @@ DLoLSSfF는 여러분과 함께 게임할 때 조금 더 재미있게 플레이�
 - 이 프로젝트는 **여러분과 사용하려고 만든 개인용 도구**입니다.
 - 공식 Riot 서비스가 아니며, 상업적인 목적이 없습니다.
 - 일부 기능은 특정 게임 모드에서만 동작할 수 있습니다.
+- DLoLSSfF Agent는 서버에 등록된 특정 사용자에게만 위의 기능들을 제공합니다.
 - 각 리포트는 Open AI가 생성하며 리포트 당 0.02-0.1 USD의 비용이 발생합니다.
 
 ---
 
 ## 💬 Thanks to
 저와 함께 롤을 플레이하여 제게 아이디어를 준 친구들 🙂
-- **Bami on bush#BAMI** <span style="float:right;">(재검증 필요)</span>
-    - 드덴 대표 롤잘알로써 팀 조합 및 경기력 평가 기준을 제시함
-- **Charmcharmcharm#EUW** <span style="float:right;">(검증됨)</span>
-- **DaramZi#EUW** <span style="float:right;">(검증 안됨)</span>
-- **FTFFMT#EUW** <span style="float:right;">(검증 안됨)</span>
-- **Ochris#Korea** <span style="float:right;">(검증 안됨)</span>
-- **Pabet#KOR** <span style="float:right;">(검증 안됨)</span>
-- **PooParty Edwin#0307** <span style="float:right;">(검증 안됨)</span>
-- **Sillim#EUW** <span style="float:right;">(재검증 필요)</span>
-- **곽병팔#1649** <span style="float:right;">(검증됨)</span>
-    - 디코 방장의 혈육으로써 개발자의 요구사항을 방장에게 다이렉트 메시지로 전달함
-- **파우더#0517** <span style="float:right;">(재검증 필요)</span>
-- **해당아이디는사용할수없습니다#1557** <span style="float:right;">(검증됨)</span>
-    - 유명한 비평가로써 초기 프로토타입 평가에 기여함
+- **Bami on bush#BAMI** — (재검증 필요)
+  - 드덴 대표 롤잘알로써 팀 조합 및 경기력 평가 기준을 제시함
+- **Charmcharmcharm#EUW** — (검증됨)
+- **DaramZi#EUW** — (검증 안됨)
+- **FTFFMT#EUW** — (검증 안됨)
+- **Ochris#Korea** — (검증 안됨)
+- **Pabet#KOR** — (검증 안됨)
+- **PooParty Edwin#0307** — (검증 안됨)
+- **Sillim#EUW** — (재검증 필요)
+- **곽병팔#1649** — (검증됨)
+  - 디코 방장의 혈육으로써 개발자의 요구사항을 방장에게 다이렉트 메시지로 전달함
+- **파우더#0517** — (재검증 필요)
+- **해당아이디는사용할수없습니다#1557** — (검증됨)
+  - 유명한 비평가로써 초기 프로토타입 평가에 기여함
 ---
 
 ⭐ 이 프로젝트는 “개인적인 공부를 생산성있게 하기”라는 단순한 목표에서 시작되었습니다.
