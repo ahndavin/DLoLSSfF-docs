@@ -63,10 +63,14 @@ DLoLSSfF는 여러분과 함께 게임할 때 조금 더 재미있게 플레이�
 
 ---
 
-## 💬 Thanks to
+## Thanks to
 저와 함께 롤을 플레이하여 제게 아이디어를 준 친구들 🙂
-- **Bami o함
-- **FTFFMT#EUW** — (검증 안됨)
+- **Bami on bush#BAMI** <span style="float:right;">(재검증 필요)</span>
+    - 드덴 대표 롤잘알로써 팀 조합 및 경기력 평가 기준을 제시함
+- **Charmcharmcharm#EUW** <span style="float:right;">(검증됨)</span>
+- **DaramZi#EUW** <span style="float:right;">(검증 안됨)</span>
+  - 하노버 대표 컴알못으로써 DLoLSSfF Agent의 보안관련
+- **FTFFMT#EUW** <span style="float:right;">(검증 안됨)</span>
 - **ichbinjinn#EUW** — (검증 안됨)
   - 디코 채널 'LOL'의 방장으로써 개발자에게 시스템 통합에 필요한 채널 권한을 승인함
 - **Ochris#Korea** — (검증 안됨)
@@ -78,6 +82,7 @@ DLoLSSfF는 여러분과 함께 게임할 때 조금 더 재미있게 플레이�
 - **파우더#0517** — (재검증 필요)
 - **해당아이디는사용할수없습니다#1557** — (검증됨)
   - 유명한 비평가로써 초기 프로토타입 평가에 기여함
+
 ---
 
 ⭐ 이 프로젝트는 “개인적인 공부를 생산성있게 하기”라는 단순한 목표에서 시작되었습니다.
