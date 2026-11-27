@@ -1,4 +1,7 @@
-# DLoLSSfF
+<h1>
+  <img src="./img/icon.png" width="32" align="center"/>
+  DLoLSSfF
+</h1>
 > **Discord-based League of Legends Support System for Friends**
 
 매일 나와 함께 게임하는 친구들(일부는 실존 여부가 불확실하지만, 일단 존재한다고 가정)을 위한 디스코드용 LoL 서포트 시스템 제작 프로젝트
